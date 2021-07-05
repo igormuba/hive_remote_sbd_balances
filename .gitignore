@@ -6,3 +6,4 @@ HIVE_HIVE-112854_KEYS.txt
 HIVE_HIVE-151060_KEYS.txt
 sso
 .env
+.DS_Store
