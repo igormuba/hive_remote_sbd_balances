@@ -1,0 +1,18 @@
+{
+  "name": "luck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hiveio/hive-js": "^1.0.0",
+    "cron": "^1.8.2",
+    "dotenv": "^10.0.0",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.13.2"
+  }
+}
