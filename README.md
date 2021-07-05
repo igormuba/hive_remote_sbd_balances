@@ -16,5 +16,5 @@ This software uses the .env file and the variables it expects to receive are:
 
 # Authors/Contributors:
 
-http://hive.blog/@luckdao
-http://hive.blog/@igormuba
+- http://hive.blog/@luckdao
+- http://hive.blog/@igormuba
